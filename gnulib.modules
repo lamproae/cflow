@@ -1,0 +1,14 @@
+# List of gnulib modules needed for GNU cflow.
+# A module name per line. Empty lines and comments are ignored.
+
+argp
+argp-version-etc
+obstack
+lstat
+error
+hash
+gettext-h
+gitlog-to-changelog
+progname
+snprintf
+xalloc
